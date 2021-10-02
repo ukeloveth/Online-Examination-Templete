@@ -1,0 +1,59 @@
+.fail{
+ width: 400px;
+ position: relative;
+ left: 300px;
+    background-color: cadetblue;
+    color:rgb(65, 57, 57);
+    font-size:16px;
+    border:1px solid gray;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.pass{
+    width: 400px;
+    position: relative;
+    left: 300px;
+       background-color: rgb(20, 84, 87);
+       color:rgb(65, 57, 57);
+       font-size:16px;
+       border:1px solid gray;
+       border-bottom-right-radius: 8px;
+       border-top-left-radius: 8px;
+   }
+
+   .tryHarder{
+    width: 400px;
+    position: relative;
+    left: 300px;
+       background-color: rgb(156, 240, 156);
+       color:rgb(65, 57, 57);
+       font-size:16px;
+       border:1px solid gray;
+       
+       border-top-left-radius: 12px;
+   }
+
+   .goodAttempt{
+    width: 400px;
+    position: relative;
+    left: 300px;
+       background-color: rgb(156, 240, 156);
+       color:rgb(65, 57, 57);
+       font-size:16px;
+       border:1px solid gray;
+       
+       border-bottom-right-radius: 12px;
+   }
+
+   .execllent{
+    width: 400px;
+    position: relative;
+    left: 300px;
+       background-color:green;
+       color:rgb(65, 57, 57);
+       font-size:16px;
+       border:1px solid gray;
+       border-top-left-radius:30px;
+       border-bottom-right-radius: 12px;
+   }

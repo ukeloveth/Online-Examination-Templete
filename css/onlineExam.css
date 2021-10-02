@@ -92,3 +92,26 @@ button a{
     outline-color: burlywood;
 
 }
+@media screen and(max-width:600px){
+  #container{
+      width: 232px;
+      position: relative;
+      top: 5px;
+      right: 5px;
+      left: 0px;
+      overflow-x: hidden;
+      /* overflow-y: hidden; */
+      margin-bottom: 10px;
+  }  
+  h2{
+      font-size: 10px;
+  }
+  #c_affaire{
+      
+      flex-direction: column;
+  }
+  #Duration{
+    
+    flex-direction: column;
+  }
+}
